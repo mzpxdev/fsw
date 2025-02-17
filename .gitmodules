@@ -13,3 +13,12 @@
 [submodule "tools/tblCRCTool"]
 	path = tools/tblCRCTool
 	url = git@github.com:mzpxdev/tblCRCTool.git
+[submodule "apps/ci_lab"]
+	path = apps/ci_lab
+	url = git@github.com:mzpxdev/ci_lab.git
+[submodule "apps/to_lab"]
+	path = apps/to_lab
+	url = git@github.com:mzpxdev/to_lab.git
+[submodule "tools/cFS-GroundSystem"]
+	path = tools/cFS-GroundSystem
+	url = git@github.com:mzpxdev/cFS-GroundSystem.git
